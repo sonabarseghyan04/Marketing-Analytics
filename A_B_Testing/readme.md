@@ -16,15 +16,15 @@ A_B_Testing/
 ```
 
 # How to run
-Open experiment.ipynb in Jupyter Notebook or VSCode with the Jupyter extension.
-Run all cells to:
-Execute experiments for both algorithms
-Generate plots of rewards and regret
-Save results to results.csv
+- Open experiment.ipynb in Jupyter Notebook or VSCode with the Jupyter extension.
+- Run all cells to:
+- Execute experiments for both algorithms
+- Generate plots of rewards and regret
+- Save results to results.csv
 
 # Overview of algorithms
-Epsilon-Greedy: Selects the best-known option most of the time, but occasionally explores randomly to discover better options.
-Thompson Sampling: Uses Bayesian updating to probabilistically select options, balancing exploration and exploitation efficiently.
+- Epsilon-Greedy: Selects the best-known option most of the time, but occasionally explores randomly to discover better options.
+- Thompson Sampling: Uses Bayesian updating to probabilistically select options, balancing exploration and exploitation efficiently.
 
 # Results
 After running the notebook, results.csv will contain the cumulative rewards and regret for each algorithm, and visualizations will show performance comparison over time.
