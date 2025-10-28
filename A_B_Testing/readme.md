@@ -14,7 +14,7 @@ A_B_Testing/
 ├── requirements.txt       # Dependencies (e.g., loguru)
 └── results.csv            # Output file storing experiment results (generated after running notebook)
 
-# How to run
+** How to run **
 Open experiment.ipynb in Jupyter Notebook or VSCode with the Jupyter extension.
 Run all cells to:
 Execute experiments for both algorithms
