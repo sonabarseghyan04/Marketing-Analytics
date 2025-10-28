@@ -13,3 +13,20 @@ A_B_Testing/
 ├── experiment.ipynb       # Jupyter notebook to run experiments and visualize results
 ├── requirements.txt       # Dependencies (e.g., loguru)
 └── results.csv            # Output file storing experiment results (generated after running notebook)
+Installation
+Clone the repository:
+git clone <your-repo-url>
+cd A_B_Testing
+Install dependencies:
+pip install -r requirements.txt
+How to Run
+Open experiment.ipynb in Jupyter Notebook or VSCode with the Jupyter extension.
+Run all cells to:
+Execute experiments for both algorithms
+Generate plots of rewards and regret
+Save results to results.csv
+Overview of Algorithms
+Epsilon-Greedy: Selects the best-known option most of the time, but occasionally explores randomly to discover better options.
+Thompson Sampling: Uses Bayesian updating to probabilistically select options, balancing exploration and exploitation efficiently.
+Results
+After running the notebook, results.csv will contain the cumulative rewards and regret for each algorithm, and visualizations will show performance comparison over time.
