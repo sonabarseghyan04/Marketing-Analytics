@@ -37,7 +37,5 @@ A_B_Testing/
    * Execute experiments for both algorithms
    * Generate plots of rewards and regret
    * Save results to `results.csv`
-4. Check console logs for average reward and regret for both algorithms.
-
 ```
----
+
