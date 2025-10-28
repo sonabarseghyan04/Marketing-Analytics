@@ -3,7 +3,6 @@
 This project implements two multi-armed bandit algorithms — **Epsilon-Greedy** and **Thompson Sampling** — to simulate an A/B testing scenario with four advertisement options. The goal is to compare how both algorithms learn over time and optimize cumulative rewards.
 
 ## Folder Structure
-
 A_B_Testing/
 │
 ├── Bandit.py # Abstract base class for bandits
