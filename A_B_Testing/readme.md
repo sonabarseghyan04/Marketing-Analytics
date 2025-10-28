@@ -40,5 +40,3 @@ A_B_Testing/
 4. Check console logs for average reward and regret for both algorithms.
 
 ```
-
-
