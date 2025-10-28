@@ -17,8 +17,7 @@ A_B_Testing/
 
 # How to run
 - Open experiment.ipynb in Jupyter Notebook or VSCode with the Jupyter extension.
-- Run all cells to:
-- Execute experiments for both algorithms
+- Run all cells to execute experiments for both algorithms
 - Generate plots of rewards and regret
 - Save results to results.csv
 
